@@ -161,15 +161,6 @@ O sistema monitora automaticamente:
 ./mvnw test jacoco:report
 ```
 
-## 📈 Melhorias Futuras
-
-- [ ] API REST para interface web
-- [ ] Dashboard em tempo real
-- [ ] Integração com IA para predições
-- [ ] Suporte a múltiplos protocolos
-- [ ] Containerização com Docker
-- [ ] Métricas e observabilidade
-
 
 ## 📝 Licença
 
