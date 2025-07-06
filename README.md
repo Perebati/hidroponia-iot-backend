@@ -170,27 +170,11 @@ O sistema monitora automaticamente:
 - [ ] Containerização com Docker
 - [ ] Métricas e observabilidade
 
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👥 Autores
-
-- **Lucas Desenvolvedor** - *Desenvolvimento principal* - [GitHub](https://github.com/lucas-dev)
-
-## 📞 Suporte
-
-Para dúvidas ou suporte:
-- Email: lucas.dev@hidroponia.com
-- Issues: [GitHub Issues](https://github.com/seu-usuario/hidroponia-backend/issues)
 
 ---
 
